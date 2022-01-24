@@ -6,5 +6,6 @@ This is a demo blog website for our project which will then serve as an ever-las
 
 Contains an express server along with an art blog
 
-Hosted on https://makhijakabir.github.io/meenu-art/
+Hosted on https://makhijakabir.github.io/meenu_art/
+
 
